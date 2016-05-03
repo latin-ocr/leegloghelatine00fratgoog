@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./leegloghelatine00fratgoog_0847.png"; bbox 0 0 3082 4984; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 178 1586 1057 1660">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 178 1586 1057 1660">
+     <span class='ocr_line' id='line_1_1' title="bbox 178 1586 1057 1660; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 178 1589 321 1660; x_wconf 78' lang='lat' dir='ltr'>BELLA</span> <span class='ocrx_word' id='word_1_2' title='bbox 340 1589 476 1659; x_wconf 72' lang='lat' dir='ltr'>PRIMA</span> <span class='ocrx_word' id='word_1_3' title='bbox 497 1586 794 1659; x_wconf 82' lang='lat' dir='ltr'><strong>EPRlNClPALE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 811 1587 1057 1660; x_wconf 80' lang='lat' dir='ltr'>ALLEGORIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 581 1777 652 1836">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 581 1777 652 1836">
+     <span class='ocr_line' id='line_1_2' title="bbox 581 1777 652 1836; baseline -0.028 0"><span class='ocrx_word' id='word_1_5' title='bbox 581 1777 652 1836; x_wconf 82' lang='lat' dir='ltr'>DEL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 361 1952 864 2039">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 361 1952 864 2039">
+     <span class='ocr_line' id='line_1_3' title="bbox 361 1952 864 2039; baseline -0.012 0"><span class='ocrx_word' id='word_1_6' title='bbox 361 1955 543 2039; x_wconf 77' lang='grc' dir='ltr'>ΡθΗΗ</span> <span class='ocrx_word' id='word_1_7' title='bbox 588 1955 641 2037; x_wconf 69' lang='grc' dir='ltr'>ΙΙΙ</span> <span class='ocrx_word' id='word_1_8' title='bbox 684 1952 864 2039; x_wconf 76' lang='grc' dir='ltr'>ΜΝΗ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 533 2166 701 2224">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 533 2166 701 2224">
+     <span class='ocr_line' id='line_1_4' title="bbox 533 2166 701 2224; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 533 2166 701 2224; x_wconf 73' lang='lat' dir='ltr'><strong>msconso</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 429 2344 800 2416">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 429 2344 800 2416">
+     <span class='ocr_line' id='line_1_5' title="bbox 429 2344 800 2416; baseline -0.008 0"><span class='ocrx_word' id='word_1_10' title='bbox 429 2345 476 2416; x_wconf 82' lang='lat' dir='ltr'>nl</span> <span class='ocrx_word' id='word_1_11' title='bbox 492 2347 525 2415; x_wconf 86' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_12' title='bbox 544 2344 800 2416; x_wconf 83' lang='lat' dir='ltr'>FRATICELLI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1546 4984">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1546 4984">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1546 4984; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1546 4984; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
